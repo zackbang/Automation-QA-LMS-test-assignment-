@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//ul[contains(@class, 'option') or contains(@class, 'choice') or contains(@class, 'answer') or .//li[contains(@class, 'option') or contains(@class, 'choice')]]/li[4] | (//ul[.//li])[last()]/li[4]"
+}

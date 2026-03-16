@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[contains(@href, 'verbal') or contains(., 'Verbal') or contains(., 'SAT')]//div\"}\n  (Session info: chrome=145.0.7632.160)",
+  "stacktrace": "Symbols not available. Dumping unresolved backtrace:\n\t0x7ff6d7c04105\n\t0x7ff6d7c04160\n\t0x7ff6d799d72d\n\t0x7ff6d79f8632\n\t0x7ff6d79f893c\n\t0x7ff6d7a48d47\n\t0x7ff6d7a458d9\n\t0x7ff6d79e90b8\n\t0x7ff6d79e9fa3\n\t0x7ff6d7ecfdf0\n\t0x7ff6d7eca29d\n\t0x7ff6d7eea52a\n\t0x7ff6d7c20705\n\t0x7ff6d7c2917c\n\t0x7ff6d7c0d544\n\t0x7ff6d7c0d6f6\n\t0x7ff6d7bf33d7\n\t0x7fffe6a27374\n\t0x7fffe75dcc91\n"
+}

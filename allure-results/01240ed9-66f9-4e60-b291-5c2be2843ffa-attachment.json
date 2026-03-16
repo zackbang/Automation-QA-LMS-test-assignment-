@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//a[contains(@href, 'verbal') or contains(., 'Verbal') or contains(., 'SAT')]//div"
+}

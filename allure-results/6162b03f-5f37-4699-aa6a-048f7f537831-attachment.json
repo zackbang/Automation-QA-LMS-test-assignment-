@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[contains(normalize-space(),'Answer Preview')]/preceding::input[1] | //input[not(@type='hidden') and not(@disabled) and not(@readonly)]"
+}

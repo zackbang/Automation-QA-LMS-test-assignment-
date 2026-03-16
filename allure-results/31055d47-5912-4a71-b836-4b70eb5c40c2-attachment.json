@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@role='dialog' or contains(@class,'modal')]//button[normalize-space()='FINISH' or normalize-space()='Finish']"
+}

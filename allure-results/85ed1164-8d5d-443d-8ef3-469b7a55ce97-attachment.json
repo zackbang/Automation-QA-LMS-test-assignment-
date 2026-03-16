@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//button[normalize-space()='START' or normalize-space()='Start' or contains(., 'Mulai') or contains(., 'Begin')]"
+}

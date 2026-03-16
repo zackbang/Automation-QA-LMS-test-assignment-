@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[(not(@type) or @type='text' or @type='number' or @type='tel') and not(@disabled) and not(@readonly) and not(@type='checkbox') and not(@type='radio')]\"}\n  (Session info: chrome=145.0.7632.160)",
+  "stacktrace": "Symbols not available. Dumping unresolved backtrace:\n\t0x7ff7277b4105\n\t0x7ff7277b4160\n\t0x7ff72754d72d\n\t0x7ff7275a8632\n\t0x7ff7275a893c\n\t0x7ff7275f8d47\n\t0x7ff7275f58d9\n\t0x7ff7275990b8\n\t0x7ff727599fa3\n\t0x7ff727a7fdf0\n\t0x7ff727a7a29d\n\t0x7ff727a9a52a\n\t0x7ff7277d0705\n\t0x7ff7277d917c\n\t0x7ff7277bd544\n\t0x7ff7277bd6f6\n\t0x7ff7277a33d7\n\t0x7ff8fa6e7374\n\t0x7ff8fbf9cc91\n"
+}

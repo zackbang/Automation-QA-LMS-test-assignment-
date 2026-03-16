@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//button[normalize-space()='FINISH' or normalize-space()='Finish'][not(ancestor::div[@role='dialog'])]"
+}

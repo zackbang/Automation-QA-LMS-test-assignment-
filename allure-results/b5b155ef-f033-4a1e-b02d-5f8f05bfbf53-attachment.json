@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//ul/li[1]//div[contains(@class,'option') or contains(@class,'choice') or self::li/div]"
+}

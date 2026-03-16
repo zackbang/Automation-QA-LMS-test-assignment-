@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//textarea|//input[@type='text' or @type='number']"
+}
