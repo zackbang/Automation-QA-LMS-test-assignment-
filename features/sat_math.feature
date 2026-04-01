@@ -2,7 +2,7 @@ Feature: Math SAT Test
 
  Scenario: User answers math questions one by one
     Given the user is on the login page
-    When the user login with email "studentqa@gmail.com" and password "satu2tiga"
+    When the user login with email "student@gmail.com" and password "1223434"
     And the user click SAT 
     And the user open the math test
    Then the user answers all math questions modul 1
